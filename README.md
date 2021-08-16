@@ -1,2 +1,10 @@
-# main
-main repository
+# HiNeKO_BLOG
+ 一个普普通通的博客<br>
+ 主要是用于个人的学习，把自己学过的东西应用到这个小项目上
+ 
+# 技术栈
+ SpringBoot + Vue + ...
+
+# Time line
+ 2021.08.16 准备写一个自己的博客，参考一下其他博客的功能试着自己实现
+
